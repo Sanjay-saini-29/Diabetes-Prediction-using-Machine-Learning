@@ -29,7 +29,7 @@ The dataset used in this project is the PIMA Diabetes dataset. It contains the f
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Pahinithi/Diabetes-Prediction-using-Machine-Learning.git
+   git clone https://github.com/Sanjay-saini-29/Diabetes-Prediction-using-Machine-Learning.git
    cd Diabetes-Prediction-using-Machine-Learning
    ```
 
