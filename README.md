@@ -83,3 +83,19 @@ The model training process is documented in the Jupyter Notebook (`diabetes-pred
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+## License
+
+This project is licensed under the MIT License.
+
+## Acknowledgements
+
+- The dataset is provided by the National Institute of Diabetes and Digestive and Kidney Diseases.
+- The project is powered by Python, Flask, and various data science libraries such as NumPy, Pandas, and scikit-learn.
+
+## Author
+
+Pahirathan Nithilan (https://github.com/Sanjay-saini-29) 
+
+##  Live Demo
+
+The application is hosted on Hugging Face Spaces: Diabetes Prediction App ([https://huggingface.co/spaces/Nithi99/diabetes_prediction_app](https://huggingface.co/spaces/Studyboy29/Diabetes-prediction-app))
