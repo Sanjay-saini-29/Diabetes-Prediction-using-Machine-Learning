@@ -94,8 +94,8 @@ This project is licensed under the MIT License.
 
 ## Author
 
-Pahirathan Nithilan (https://github.com/Sanjay-saini-29) 
+Sanjay Saini (https://github.com/Sanjay-saini-29) 
 
 ##  Live Demo
 
-The application is hosted on Hugging Face Spaces: Diabetes Prediction App ([https://huggingface.co/spaces/Nithi99/diabetes_prediction_app](https://huggingface.co/spaces/Studyboy29/Diabetes-prediction-app))
+The application is hosted on Hugging Face Spaces: Diabetes Prediction App (https://huggingface.co/spaces/Studyboy29/Diabetes-prediction-app))
